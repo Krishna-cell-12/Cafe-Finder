@@ -8,7 +8,7 @@ a {
     color: #F7E1AE;
 }
 a:hover{
-    color: #617A55;
+    color: #3b4836;
 }
 
 /* scrollbar */
@@ -36,7 +36,7 @@ a:hover{
   
 ::selection {
     color: #FFF8D6;
-    background: #617A55;
+    background: #3b4836;
   }
 
 
@@ -54,7 +54,7 @@ body {
 
 #title {
     background-color: #FFF8D6;
-    color: #617A55;
+    color: #3b4836;
 
 }
 
@@ -79,7 +79,7 @@ h1 {
     font-family: "Ubuntu";
     font-size: 2.5rem;
     font-weight: bold; 
-    color: #617A55 !important;
+    color: #3b4836 !important;
 }
 
 .nav-item {
@@ -93,20 +93,20 @@ h1 {
 }
 
 .nav-link:hover{
-    color: #617A55 !important;
+    color: #3b4836 !important;
 }
 
 /* download-button */
 
 .search-button {
     color: #F7E1AE;
-    background: #617A55;
+    background: #3b4836;
     margin: 5% 3% 5% 0;
     border: 0;
 }
 
 .search-button:hover {
-    color: #617A55;
+    color: #3b4836;
     background-color: #F7E1AE;
     border: 0;
 }
@@ -159,7 +159,7 @@ p{
     padding: 7% 15%;
     text-align: center;
     background-color: #F7E1AE;
-    color: #617A55;
+    color: #3b4836;
 }
 
 #topcafe h2{
